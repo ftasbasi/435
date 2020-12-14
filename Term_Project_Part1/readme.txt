@@ -13,7 +13,7 @@ Put destination.py onto machine d and type 'python destination.py'
 *** RUN CLIENT AT THE END ***
 
 -----------------------------------------------------------------------------------------------
-!!!!!!    All experiment datas are given in "delay_experiments.xlsx" file.    !!!!!
+!!!!!!    All experiment data is given in "delay_experiments.xlsx" file.    !!!!!
 
 Delay Experiment Operations
 
